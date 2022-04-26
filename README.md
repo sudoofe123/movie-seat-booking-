@@ -11,4 +11,5 @@
 ## Languages used
 * HTML,CSS,JAVASCRIPT
  
- 
+## live link
+ (https://sudoofe123.github.io/movie-seat-booking-/)
