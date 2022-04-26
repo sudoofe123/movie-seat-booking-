@@ -12,4 +12,4 @@
 * HTML,CSS,JAVASCRIPT
  
 ## live link
- (https://sudoofe123.github.io/movie-seat-booking-/)
+ https://sudoofe123.github.io/movie-seat-booking-/
